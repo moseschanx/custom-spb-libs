@@ -2,10 +2,13 @@
 *.jrl
 *.swp
 *.un~
+*.pdf
+*.rpt
 
 *~
 *1
-*log*
+*log,*
+*.log
 
 *.OLBlck
 *.DSNlck
@@ -30,5 +33,7 @@
 footprints/*lck
 footprints/*html
 signoise.run/*
+allegro*/*
 allegro/pstdedb.cdsz
 CAPTURE_DESIGN_DCF/*
+*artwork*/*
