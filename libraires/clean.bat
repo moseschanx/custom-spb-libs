@@ -1,0 +1,2 @@
+del *.OBK
+del *.OLBlck
