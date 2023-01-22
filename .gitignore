@@ -28,13 +28,6 @@
 *.lst
 *.did
 *.dmp
+*.opj
 
 
-
-footprints/*lck
-footprints/*html
-signoise.run/*
-allegro*/*
-allegro/pstdedb.cdsz
-CAPTURE_DESIGN_DCF/*
-*artwork*/*
