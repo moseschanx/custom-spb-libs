@@ -17,6 +17,7 @@ Abbreviations :
 	USHEIL : unsheilded
 	WW  : Wirewound
 	MLCC : Multi-layer Ceramic Capacitor
+	AELT : Alunminum Electrolyte 
 
 Currnetly Included Footprint of Components : 
 	
@@ -25,13 +26,14 @@ Currnetly Included Footprint of Components :
 		0402
 		0603
 		0805
-
-	Multi-layer Ceramic Capacitor :
-		0201
-		0402
-		0603
-		0805
-		1206
+	Capacitors :
+		Multi-layer Ceramic Capacitor :
+			0201
+			0402
+			0603
+			0805
+			1206
+		
 
 	Inductors:
 		Surface Mount Power Integrated Model Inductors :
@@ -54,4 +56,10 @@ Currnetly Included Footprint of Components :
 
 
 	
+	Connectors:
+		USB :
+
+		TYPEC :
+
+		
 
