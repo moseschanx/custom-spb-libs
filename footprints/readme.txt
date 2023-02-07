@@ -33,23 +33,24 @@ Currnetly Included Footprint of Components :
 		0805
 		1206
 
-	Surface Mount Power Integrated Model Inductors :
-		0420
-		0530
-		0630
-		0650
-		1040
+	Inductors:
+		Surface Mount Power Integrated Model Inductors :
+			0420
+			0530
+			0630
+			0650
+			1040
 
-	Surface Mount Power Sheilded Inducotr :
-		CDRH74
-		CDRH104
+		Surface Mount Power Sheilded Inducotr :
+			CDRH74
+			CDRH104
 	
-	Surface Mount Wirewound Power Unsheilded Inductor :
-		CD32
-		CD43
-		CD54
-		CD75
-		CD105
+		Surface Mount Wirewound Power Unsheilded Inductor :
+			CD32
+			CD43
+			CD54
+			CD75
+			CD105
 
 
 	
