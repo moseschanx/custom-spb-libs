@@ -57,9 +57,15 @@ Currnetly Included Footprint of Components :
 
 	
 	Connectors:
-		USB :
 
-		TYPEC :
+		TYPEC-USB
 
+
+	TODOs : 
+	
+		
+
+
+		
 		
 
