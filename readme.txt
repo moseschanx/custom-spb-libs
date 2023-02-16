@@ -18,6 +18,8 @@ Abbreviations :
 	WW  : Wirewound
 	MLCC : Multi-layer Ceramic Capacitor
 	AELT : Alunminum Electrolyte 
+	
+	ARBTY : Arbitrary
 
 Currnetly Included Footprint of Components : 
 	
