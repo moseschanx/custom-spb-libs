@@ -33,7 +33,8 @@
 
 footprints/*lck
 footprints/*html
-signoise.run/*
+footprints/signoise.run/*
+
 allegro*/*
 allegro/pstdedb.cdsz
 CAPTURE_DESIGN_DCF/*
