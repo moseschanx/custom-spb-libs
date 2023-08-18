@@ -16,7 +16,7 @@
 
 *PSpice*
 *.tag
-#*.opj
+*.opj
 *.png
 *.OBK
 *sav
