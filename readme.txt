@@ -64,9 +64,9 @@ Currnetly Included Footprint of Components :
 
 
 	TODOs : 
-	
+		Add SOP-8 cohesive version.
 		
-
+			
 
 		
 		
