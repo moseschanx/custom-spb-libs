@@ -64,7 +64,8 @@ Currnetly Included Footprint of Components :
 
 
 	TODOs : 
-		Add SOP-8 cohesive version.
+	
+		Fix 0603 LED 3d model prorgam crash awhile 3d viewing.
 		
 			
 
