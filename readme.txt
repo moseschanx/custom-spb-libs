@@ -1,3 +1,9 @@
+This is a collection of some common pcb footprint and libs for cadence allegro 17.4.
+
+How-To-Use :
+	(TODO)
+
+
 Naming Convensions :
 
 	-L  :   Smallest pad size
