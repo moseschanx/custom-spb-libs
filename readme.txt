@@ -68,6 +68,7 @@ Currnetly Included Footprint of Components :
 
 		TYPEC-USB
 
+	VFQFPN36-6x6mm
 
 	TODOs : 
 	
